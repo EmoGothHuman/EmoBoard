@@ -10,6 +10,8 @@ That being said, I'm excited that you're taking a look at this and potentially i
 Requirements:
 PC (I work in Windows 10, but it may work in other OS's)
 LioranBoard - https://obsproject.com/forum/resources/lioranboard-stream-deck-animator.862/
+
 OBS (Standard OBS is what I use, not Streamlabs.  I have not tested in Streamlabs and honestly don't have the time nor the inclination to.) - https://obsproject.com/
+
 OBS Websocket - https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/
 

@@ -1,5 +1,9 @@
 Here are the available chat commands provided by the LioranBoard
 
+Phasmo Controls
+!gname Ghost Name -  Changes the ghost name in the overlay
+!preset - Resets the Overlay pieces to a default state
+
 Primary Objectives
 
 !emf5 - Mark EMF5 Primary objective as complete
@@ -13,4 +17,14 @@ Secondary Objectives
 
 !s1, !s2, !s3 - Mark Secondaries in each slot as complete
 
-Documentation Incomplete
+!so em - Adds EMF to the secondaries
+!so ev - Adds Ghost Event to the secondaries
+!so ph - Add Ghost Photo to the secondaries
+!so ms - Add Motion Sensor to the secondaries
+!so cl - Add Cleanse to the secondaries
+!so cr - Add Crucifix to the secondaries
+!so sa - Add Salt to the secondaries
+!so ca - Add Candles to the secondaries
+!so es - Add Escape to the secondaries
+!so re - Add Repel to the secondaries
+!so 25 - Add 25% Sanity to the secondaries

@@ -1,6 +1,7 @@
 Here are the available chat commands provided by the LioranBoard
 
 Phasmo Controls
+
 !gname Ghost Name -  Changes the ghost name in the overlay
 !preset - Resets the Overlay pieces to a default state
 

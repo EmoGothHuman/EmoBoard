@@ -15,3 +15,9 @@ OBS (Standard OBS is what I use, not Streamlabs.  I have not tested in Streamlab
 
 OBS Websocket - https://obsproject.com/forum/resources/obs-websocket-remote-control-of-obs-studio-made-easy.466/
 
+Licensing:
+For the foreseeable future, all boards and scenes included here are being submitted without any use restrictions or attribution required.  The only thing I ask is that you let me know how you utilize my boards and scenes!  I would love to see the cool things that people do to make this more attractive and to fit their streams!
+
+You can drop into my Discord here: https://discord.gg/FnTAEhbjUE or catch me on twitch.tv/emogothhuman
+
+I hope you enjoy!

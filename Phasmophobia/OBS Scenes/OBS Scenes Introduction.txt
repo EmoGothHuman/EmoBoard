@@ -1,0 +1,16 @@
+In this folder, I have provided a seen with all the required sources for the interactive overlay as seen on my stream.  
+
+This can be edited and adjusted however you like so long as the names remain the same OR you edit the LioranBoard sourcenames to match when you make a change.
+
+These are standard OBS scenes, so I don't know if they'll work with SLOBS.
+
+To import:
+Download the PhasmoOverlay.json file and put it somewhere that you can easily find and you won't delete it.
+Open OBS Studio
+Click Scene Collection in the top menu
+Click Import
+Use the three dots in the Collection Path field to open the Windows browser
+Navigate to wherever you downloaded the .json file to and select it and click OK
+Click Import
+
+Click Scene Collection and you should see Phasmo in the Scene Collection list.  Select that and you should see the base overlay that I've designed.

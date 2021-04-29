@@ -1,0 +1,16 @@
+Here are the available chat commands provided by the LioranBoard
+
+Primary Objectives
+
+!emf5 - Mark EMF5 Primary objective as complete
+!box - Mark Spiritbox Primary objective as complete
+!fingies - Mark Fingerprint primary objective as complete
+!orbs - Mark Ghost Orbs primary objective as complete
+!writing - Mark Ghost Writing primary objective as complete
+!temps - Mark Freezing Temps primary objective as complete
+
+Secondary Objectives
+
+!s1, !s2, !s3 - Mark Secondaries in each slot as complete
+
+Documentation Incomplete

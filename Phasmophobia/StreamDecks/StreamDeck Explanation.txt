@@ -1,0 +1,15 @@
+The streamdecks are companions.  If you intend to enter the ghost name using the !gname command, then you only need the Phasmo Control stream deck.
+
+The Phasmo Name stream deck works by using two variables to contain the first and last name.  The streamdeck button to swap back to the Phasmo Control streamdeck also calls a function that creates a Ghost name from the variables you've chosen.
+
+Phasmo Controls
+
+The top-left 6 items are the primary objectives that are entered as you find them.
+
+The rest of the left side are the secondary objective options that you can enter into the 1st, 2nd, and 3rd secondary objective slot.  Secondary 1-3 marks S1-3 as complete.
+
+Reset simply resets the forms.
+
+Red Check, Ghost Name (Twitch), Ghost Name (Deck), and Ghost Type are not used directly.
+
+The Phasmo Names button swaps to the Phasmo Names streamdeck.

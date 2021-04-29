@@ -27,4 +27,21 @@ For example:  If you have config, config1, config2 and nothing else, then rename
 
 You can then open Lioranboard Receiver and see the two new streamdecks added to your list: Phasmophobia Stream and Phasmo Names.
 
-Phasmophobia Stream is a small controller for entering the majority of the information and Phasmo Names is for entering the ghost name.
+Phasmophobia Stream is a small controller for controlling the majority of the information into the stream overlay. 
+Phasmo Names is for entering the ghost name.
+
+There are three Trigger button commands and two stream deck change commands that you need to be aware of.
+
+Red Check - In each of the Primary evidence buttons as Command: Trigger Button ID47 - Checks to see if there are two pieces of evidence found, marks as red any evidence that is unavailable, and then calls the Ghost Type button.
+
+Ghost Type button - In the Red Check button as Command: Trigger Button ID49 - Checks to see if there are 3 pieces of evidence marked and determines the type of ghost and marks the other evidence as Red/Unavailable
+
+Ghost Name (Deck) - In the Phasmo Name Stream Deck's Phasmo Control button as Command: Trigger Button ID124 - Calls the function that changes the ghost name on the stream.
+
+Find the ID of each of these buttons and confirm that they are the same.  If they are not, update their appropriate calls.
+
+Streamdeck changes:
+
+Phasmo Names - In Phasmo Control - Changes to the stream deck number for Phasmo Names currently set to 2
+
+Phasmo Control - In Phasmo Names - Changes to the stream deck number for the Phasmo Control currently set to 1
